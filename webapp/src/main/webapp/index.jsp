@@ -1,6 +1,6 @@
 <form action="action_page.php" method="post">
   <div class="imgcontainer">
-	  <h1>New user Register by dinesh</h1>
+	  <h1>New user Register by harish</h1>
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
 
